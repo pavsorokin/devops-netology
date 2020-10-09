@@ -8,3 +8,4 @@ devops-netology p_sorokin
 6. Игнорировать скрытый каталог .terraform и файл terraform.rc
 
 New string for branch <fix> 
+Change document with PyCharm IDE
