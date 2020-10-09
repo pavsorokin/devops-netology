@@ -5,4 +5,6 @@ devops-netology p_sorokin
 3. Игнорировать файлы crash.log
 4. Игнорировать все файлы с расширением .tfvars
 5. Игнорировать файлы override.tf, override.tf.json и все файлы, содержащие в конце своего названия _ override.tf и _override.tf.json
-6. Игнорировать скрытый каталог .terraform и файл terraform.rc 
+6. Игнорировать скрытый каталог .terraform и файл terraform.rc
+
+New string for branch <fix> 
